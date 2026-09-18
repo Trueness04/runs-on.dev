@@ -1,9 +1,11 @@
 {
+  "claimedAt": "2026-09-18T11:51:06.683Z",
+  "country": "MD",
   "name": "risen",
   "owner": {
     "github": "Trueness04"
   },
-  "claimedAt": "2026-09-18T11:51:06.683Z",
-  "records": {},
-  "country": "MD"
+  "records": {
+    "CNAME": "risen.partnergame.ir"
+  }
 }
